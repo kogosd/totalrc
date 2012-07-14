@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kogosd.github.com/totalrc/atom.xml" rel="self"/>
   <link href="http://kogosd.github.com/totalrc/"/>
-  <updated>2012-07-13T20:17:23-04:00</updated>
+  <updated>2012-07-13T22:36:04-04:00</updated>
   <id>http://kogosd.github.com/totalrc/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://kogosd.github.com/totalrc/blog/2012/07/13/test/"/>
+    <updated>2012-07-13T22:33:00-04:00</updated>
+    <id>http://kogosd.github.com/totalrc/blog/2012/07/13/test</id>
+    <content type="html"><![CDATA[<p>aaaaaa</p>
+]]></content>
+  </entry>
   
 </feed>
